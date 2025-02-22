@@ -2,4 +2,6 @@ pandas
 psycopg2-binary
 panel
 SQLAlchemy
+jupyter
+ipywidgets
 jupyter-bokeh
