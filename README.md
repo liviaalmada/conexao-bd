@@ -1,6 +1,7 @@
 # CRUD no Jupyter Notebook: passo-a-passo
 
 Repositório: https://github.com/liviaalmada/conexao-bd.git
+Tutorial em vídeo: https://youtu.be/uGx9DCFFHu0
 
 A função deste tutorial é guiá-lo na utilização de uma ferramenta CRUD pré preparada para o trabalho da disciplina de Fundamentos de Bancos de Dados.
 
